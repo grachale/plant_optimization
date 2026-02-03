@@ -1,0 +1,4 @@
+data/output/
+
+data/visualizations/results_sim_*.png
+!data/visualizations/results_sim_1_*.png
